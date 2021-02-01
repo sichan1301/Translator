@@ -14,4 +14,4 @@ print(detected.lang,":",sentence)
 print(result.dest,":",result.text)
 print("=================================")
 
-# 
+#  pip install googletrans==3.1.0a0
